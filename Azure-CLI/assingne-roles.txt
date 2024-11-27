@@ -1,5 +1,5 @@
 # Configuración inicial
-STORAGE_ACCOUNT_NAME="woodwardnas"
+STORAGE_ACCOUNT_NAME="storaname"
 RESOURCE_GROUP_NAME="miGrupoDeRecursos"
 USER_EMAIL="axel@fors.com"
 ROLES=(
